@@ -9,7 +9,7 @@
 ## 1.基本参数
 
 + 操作系统：Windows系统
-+ mingw 版本： ![image-20230210220749775](C:\Users\18326\AppData\Roaming\Typora\typora-user-images\image-20230210220749775.png)
++ mingw 版本：gcc version 8.1.0
 + 第三方库：SDL
 
 ## 2.棋局操作说明：
